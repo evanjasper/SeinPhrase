@@ -1,0 +1,2 @@
+# SeinPhrase
+Seinfeld script analysis
